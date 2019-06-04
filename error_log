@@ -1,0 +1,22 @@
+[03-May-2019 12:00:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostingadmin/usasurveyz.com/sam/database.php on line 6
+[03-May-2019 12:00:46 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hostingadmin/usasurveyz.com/sam/database.php on line 8
+[03-May-2019 12:03:07 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[03-May-2019 12:03:07 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[03-May-2019 12:03:57 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[03-May-2019 12:03:57 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:39:55 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:39:55 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:12 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:12 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:40 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:40 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:47 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:47 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:56 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[10-May-2019 06:52:56 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[11-May-2019 10:41:30 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[11-May-2019 10:41:30 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[13-May-2019 10:18:21 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[13-May-2019 10:18:21 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[14-May-2019 06:34:36 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6
+[14-May-2019 06:34:36 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/sam/index.php on line 6

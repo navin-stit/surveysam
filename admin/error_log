@@ -1,0 +1,14 @@
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer2.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwf0ctm' to '../images/popular_image/most-populer2.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer3.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzkNqS1' to '../images/popular_image/most-populer3.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7xFiuP' to '../images/popular_image/most-populer.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[10-May-2019 06:42:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hostingadmin/usasurveyz.com/sam/admin/dashboard.php on line 15
+[10-May-2019 06:43:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hostingadmin/usasurveyz.com/sam/admin/dashboard.php on line 15
+[10-May-2019 06:49:00 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/sam/admin/update_url.php on line 35
+[10-May-2019 06:49:00 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/sam/admin/update_url.php on line 46
+[10-May-2019 06:49:04 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/sam/admin/update_url.php on line 35
+[10-May-2019 06:49:04 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/sam/admin/update_url.php on line 46
+[10-May-2019 13:17:38 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/sam/admin/update_url.php on line 35
+[10-May-2019 13:17:38 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/sam/admin/update_url.php on line 46
